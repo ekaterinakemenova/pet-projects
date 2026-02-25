@@ -1,1 +1,3 @@
-# pet-projects
+| Project | Industry | Description | Stack | Status / Next steps |
+|---------|----------|-------------|-------|---------------------|
+| [**Data Analyst Skills Analysis**](./data-analyst-skills-analysis) | Job Market | **Goal:** Identify in-demand skills for data analyst and junior data analyst roles across USA, UK, and Canada<br>**Key findings:** SQL, Python, Excel dominate (~55%, ~36%, ~36%); BI tools and data engineering more prevalent in middle+ roles<br>**Recommendations:** Prioritise SQL, Python, Excel as core; add Power BI/Tableau for BI roles; mid+ roles benefit from databases and ETL skills | Python (pandas, numpy, requests, matplotlib, seaborn), JSearch API, Tableau | ✅ Complete<br>**Next steps:** Automate pipeline—(1) scheduled data collection (e.g. monthly cron to run notebook 01); (2) end-to-end script to run notebooks 01→02→03 and `export_tableau_tables.py`; (3) refresh Tableau data source when new processed data is available |
