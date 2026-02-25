@@ -1,0 +1,15 @@
+# Data collection
+requests>=2.28.0
+python-dotenv>=1.0.0
+
+# Data processing & analysis
+pandas>=2.0.0
+numpy>=1.24.0
+
+# Visualization
+matplotlib>=3.7.0
+seaborn>=0.12.0
+
+# Statistical tests (junior vs mid+ chi-square, FDR correction)
+scipy>=1.10.0
+statsmodels>=0.14.0

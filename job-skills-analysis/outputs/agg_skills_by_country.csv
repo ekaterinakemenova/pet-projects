@@ -1,0 +1,130 @@
+skill_name,country_name,count,share,skill
+skill_sql,Canada,123,60.0,sql
+skill_python,Canada,81,39.51219512195122,python
+skill_r,Canada,33,16.097560975609756,r
+skill_excel,Canada,48,23.414634146341466,excel
+skill_google_sheets,Canada,6,2.9268292682926833,google_sheets
+skill_postgresql,Canada,2,0.975609756097561,postgresql
+skill_mysql,Canada,1,0.4878048780487805,mysql
+skill_oracle,Canada,6,2.9268292682926833,oracle
+skill_sql_server,Canada,7,3.414634146341464,sql_server
+skill_bigquery,Canada,11,5.365853658536586,bigquery
+skill_snowflake,Canada,15,7.317073170731707,snowflake
+skill_redshift,Canada,7,3.414634146341464,redshift
+skill_vertica,Canada,0,0.0,vertica
+skill_clickhouse,Canada,0,0.0,clickhouse
+skill_databricks,Canada,10,4.878048780487805,databricks
+skill_synapse,Canada,3,1.4634146341463417,synapse
+skill_power_bi,Canada,53,25.853658536585368,power_bi
+skill_tableau,Canada,44,21.463414634146343,tableau
+skill_looker,Canada,18,8.780487804878048,looker
+skill_qlik,Canada,2,0.975609756097561,qlik
+skill_datalens,Canada,0,0.0,datalens
+skill_superset,Canada,2,0.975609756097561,superset
+skill_airflow,Canada,3,1.4634146341463417,airflow
+skill_hadoop,Canada,3,1.4634146341463417,hadoop
+skill_spark,Canada,15,7.317073170731707,spark
+skill_kafka,Canada,1,0.4878048780487805,kafka
+skill_dbt,Canada,12,5.853658536585367,dbt
+skill_talend,Canada,1,0.4878048780487805,talend
+skill_informatica,Canada,2,0.975609756097561,informatica
+skill_chatgpt,Canada,1,0.4878048780487805,chatgpt
+skill_claude,Canada,0,0.0,claude
+skill_cursor,Canada,0,0.0,cursor
+skill_copilot,Canada,2,0.975609756097561,copilot
+skill_gemini,Canada,0,0.0,gemini
+skill_statistics,Canada,57,27.80487804878049,statistics
+skill_a_b_testing,Canada,8,3.902439024390244,a_b_testing
+skill_experimentation,Canada,13,6.341463414634147,experimentation
+skill_hypothesis_testing,Canada,3,1.4634146341463417,hypothesis_testing
+skill_etl,Canada,24,11.707317073170733,etl
+skill_data_cleaning,Canada,4,1.951219512195122,data_cleaning
+skill_data_pipeline,Canada,31,15.121951219512194,data_pipeline
+skill_dashboards,Canada,60,29.268292682926827,dashboards
+skill_data_visualization,Canada,35,17.073170731707318,data_visualization
+skill_sql,USA,368,53.879941434846266,sql
+skill_python,USA,241,35.28550512445095,python
+skill_r,USA,128,18.740849194729137,r
+skill_excel,USA,269,39.38506588579795,excel
+skill_google_sheets,USA,13,1.903367496339678,google_sheets
+skill_postgresql,USA,6,0.8784773060029283,postgresql
+skill_mysql,USA,6,0.8784773060029283,mysql
+skill_oracle,USA,36,5.27086383601757,oracle
+skill_sql_server,USA,34,4.978038067349927,sql_server
+skill_bigquery,USA,15,2.1961932650073206,bigquery
+skill_snowflake,USA,65,9.51683748169839,snowflake
+skill_redshift,USA,15,2.1961932650073206,redshift
+skill_vertica,USA,2,0.29282576866764276,vertica
+skill_clickhouse,USA,0,0.0,clickhouse
+skill_databricks,USA,29,4.24597364568082,databricks
+skill_synapse,USA,11,1.610541727672035,synapse
+skill_power_bi,USA,220,32.210834553440705,power_bi
+skill_tableau,USA,193,28.257686676427525,tableau
+skill_looker,USA,41,6.002928257686676,looker
+skill_qlik,USA,12,1.7569546120058566,qlik
+skill_datalens,USA,0,0.0,datalens
+skill_superset,USA,1,0.14641288433382138,superset
+skill_airflow,USA,5,0.7320644216691069,airflow
+skill_hadoop,USA,9,1.3177159590043925,hadoop
+skill_spark,USA,32,4.685212298682284,spark
+skill_kafka,USA,6,0.8784773060029283,kafka
+skill_dbt,USA,14,2.049780380673499,dbt
+skill_talend,USA,1,0.14641288433382138,talend
+skill_informatica,USA,6,0.8784773060029283,informatica
+skill_chatgpt,USA,1,0.14641288433382138,chatgpt
+skill_claude,USA,1,0.14641288433382138,claude
+skill_cursor,USA,0,0.0,cursor
+skill_copilot,USA,3,0.43923865300146414,copilot
+skill_gemini,USA,0,0.0,gemini
+skill_statistics,USA,217,31.771595900439237,statistics
+skill_a_b_testing,USA,27,3.953147877013177,a_b_testing
+skill_experimentation,USA,22,3.22108345534407,experimentation
+skill_hypothesis_testing,USA,3,0.43923865300146414,hypothesis_testing
+skill_etl,USA,61,8.931185944363104,etl
+skill_data_cleaning,USA,31,4.538799414348463,data_cleaning
+skill_data_pipeline,USA,68,9.956076134699854,data_pipeline
+skill_dashboards,USA,244,35.72474377745242,dashboards
+skill_data_visualization,USA,191,27.96486090775988,data_visualization
+skill_sql,United Kingdom,137,54.800000000000004,sql
+skill_python,United Kingdom,91,36.4,python
+skill_r,United Kingdom,34,13.600000000000001,r
+skill_excel,United Kingdom,92,36.8,excel
+skill_google_sheets,United Kingdom,3,1.2,google_sheets
+skill_postgresql,United Kingdom,3,1.2,postgresql
+skill_mysql,United Kingdom,1,0.4,mysql
+skill_oracle,United Kingdom,6,2.4,oracle
+skill_sql_server,United Kingdom,4,1.6,sql_server
+skill_bigquery,United Kingdom,3,1.2,bigquery
+skill_snowflake,United Kingdom,10,4.0,snowflake
+skill_redshift,United Kingdom,2,0.8,redshift
+skill_vertica,United Kingdom,0,0.0,vertica
+skill_clickhouse,United Kingdom,0,0.0,clickhouse
+skill_databricks,United Kingdom,8,3.2,databricks
+skill_synapse,United Kingdom,4,1.6,synapse
+skill_power_bi,United Kingdom,84,33.6,power_bi
+skill_tableau,United Kingdom,51,20.4,tableau
+skill_looker,United Kingdom,12,4.8,looker
+skill_qlik,United Kingdom,2,0.8,qlik
+skill_datalens,United Kingdom,0,0.0,datalens
+skill_superset,United Kingdom,1,0.4,superset
+skill_airflow,United Kingdom,1,0.4,airflow
+skill_hadoop,United Kingdom,3,1.2,hadoop
+skill_spark,United Kingdom,4,1.6,spark
+skill_kafka,United Kingdom,1,0.4,kafka
+skill_dbt,United Kingdom,16,6.4,dbt
+skill_talend,United Kingdom,0,0.0,talend
+skill_informatica,United Kingdom,5,2.0,informatica
+skill_chatgpt,United Kingdom,0,0.0,chatgpt
+skill_claude,United Kingdom,1,0.4,claude
+skill_cursor,United Kingdom,0,0.0,cursor
+skill_copilot,United Kingdom,0,0.0,copilot
+skill_gemini,United Kingdom,1,0.4,gemini
+skill_statistics,United Kingdom,42,16.8,statistics
+skill_a_b_testing,United Kingdom,7,2.8000000000000003,a_b_testing
+skill_experimentation,United Kingdom,13,5.2,experimentation
+skill_hypothesis_testing,United Kingdom,2,0.8,hypothesis_testing
+skill_etl,United Kingdom,10,4.0,etl
+skill_data_cleaning,United Kingdom,4,1.6,data_cleaning
+skill_data_pipeline,United Kingdom,23,9.2,data_pipeline
+skill_dashboards,United Kingdom,90,36.0,dashboards
+skill_data_visualization,United Kingdom,40,16.0,data_visualization
