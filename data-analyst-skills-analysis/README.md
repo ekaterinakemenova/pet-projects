@@ -33,7 +33,7 @@ Job posting data sourced via JSearch API (RapidAPI), which aggregates Google for
 - Junior vs middle+ skill comparison and gap analysis
 
 **4. Dashboard creation**
-- [Data Analyst Skills Analysis (Jan–Feb 2026)](https://public.tableau.com/app/profile/ekaterina.kemenova/viz/DataAnalystSkillsAnalysisJan-Feb2026/DataAnalystSkillsAnalysisJan-Feb2026) — published on Tableau Public
+- [Data Analyst Skills Analysis (Jan–Feb 2026)](https://public.tableau.com/app/profile/ekaterina.kemenova/viz/DataAnalystSkillsAnalysisJan-Feb2026/FullDB) — published on Tableau Public
 
 ## Main Findings
 - **Core skill set:** SQL is the most in-demand skill (~55% of postings), with Python and Excel close behind (~36% each). BI tools (20-36% of postings) and statistics (28%) round out the core stack.
