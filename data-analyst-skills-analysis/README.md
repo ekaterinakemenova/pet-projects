@@ -1,4 +1,5 @@
 # Data Analyst Skills: In-Demand Skills & Market Analysis
+[Data Analyst Skills Analysis (Jan–Feb 2026)](https://public.tableau.com/app/profile/ekaterina.kemenova/viz/DataAnalystSkillsAnalysisJan-Feb2026/FullDB)
 
 ## Goal
 Conduct an exploratory analysis of job posting data for *data analyst* and *junior data analyst* roles across major English-speaking markets in order to identify the most in-demand technical skills, compare skill requirements across experience levels and countries, and support career planning.
